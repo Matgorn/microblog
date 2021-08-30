@@ -1,0 +1,18 @@
+{
+  "blogs": [{
+    "id": "a9c9e9fb-cfa1-497e-8b66-f9e51b36a9ac",
+    "author": "John Doe",
+    "message": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita provident itaque, a repellendus nemo, suscipit hic numquam modi est aliquam ab magnam eaque minima, molestias laborum? Ab beatae obcaecati officiis!",
+    "date": "26/08/2021"
+  }, {
+    "id": "b1e1256b-7bee-4290-a9ce-75714d1efa83",
+    "author": "Jane Doe",
+    "message": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita provident itaque, a repellendus nemo, suscipit hic numquam modi est aliquam ab magnam eaque minima, molestias laborum? Ab beatae obcaecati officiis!",
+    "date": "25/08/2021"
+  }, {
+    "id": "72d6bb27-92b3-40ab-a7ed-dc5e894e0d50",
+    "author": "Janice Doe",
+    "message": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita provident itaque, a repellendus nemo, suscipit hic numquam modi est aliquam ab magnam eaque minima, molestias laborum? Ab beatae obcaecati officiis!",
+    "date": "24/08/2021"
+  }]
+}

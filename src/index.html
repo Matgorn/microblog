@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+
+  <title>Microblog</title>
+</head>
+<body>
+  <div class="wrapper">
+    <section id="blog-list"></section>
+
+    <section id="add-blog-form">
+      <form id="add-blog-post-form">
+
+        <p id="post-success">Succesfully added new post</p>
+
+        <label for="fname">Name:</label><br>
+        <p id="name-danger">This field cannot be empty</p>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="message">Message:</label><br>
+        <p id="message-danger">This field cannot be empty</p>
+        <textarea id="message" name="message" cols="40" rows="5"></textarea>
+        
+        <input id="add-post-submit" type="submit" value="Submit">
+      </form> 
+    </section>
+  </div>
+</body>
+</html>
